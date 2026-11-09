@@ -10,14 +10,6 @@
   <sub>Cybersecurity &nbsp;◆&nbsp; Cloud Security &nbsp;◆&nbsp; Full-Stack &nbsp;◆&nbsp; Blockchain &nbsp;◆&nbsp; UI/UX</sub>
 </p>
 
-<p align="center">
-  <a href="https://github.com/neilmalvalli-cyber"><img src="https://img.shields.io/badge/GitHub-neilmalvalli--cyber-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <!-- TODO: replace YOUR-LINKEDIN-HANDLE with your LinkedIn handle -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=5EC8FF" alt="LinkedIn" /></a>
-  <!-- TODO: replace YOUR-EMAIL@example.com with the address you want public -->
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0d1117?style=flat-square&logo=gmail&logoColor=FF8A3D" alt="Email" /></a>
-</p>
-
 <p align="center"><img src="./assets/ui/divider.png" width="100%" alt="" /></p>
 
 <!-- ═══════════════════════════════  ABOUT  ═══════════════════════════════ -->
